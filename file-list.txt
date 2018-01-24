@@ -1,0 +1,142 @@
+total 0
+drwxr-xr-x   5 dima  staff  160  5 Mar  2006 bedlam
+drwxr-xr-x   5 dima  staff  160 10 Aug  2006 bedlam10
+drwxr-xr-x   6 dima  staff  192 10 Aug  2006 bedlam11
+drwxr-xr-x   6 dima  staff  192  6 Aug  2007 bedlam11.5
+drwxr-xr-x   7 dima  staff  224 30 Aug  2007 bedlam12
+drwxr-xr-x   9 dima  staff  288  3 Sep  2007 bedlam12.1
+drwxr-xr-x   5 dima  staff  160  5 Mar  2006 bedlam2
+drwxr-xr-x   6 dima  staff  192  5 Mar  2006 bedlam3
+drwxr-xr-x  10 dima  staff  320  5 Mar  2006 bedlam4
+drwxr-xr-x  12 dima  staff  384 11 Mar  2006 bedlam5
+drwxr-xr-x  10 dima  staff  320 19 May  2006 bedlam5.1
+drwxr-xr-x  12 dima  staff  384 17 Jul  2006 bedlam6
+drwxr-xr-x   6 dima  staff  192 17 Jul  2006 bedlam7
+drwxr-xr-x   6 dima  staff  192 10 Aug  2006 bedlam8
+drwxr-xr-x   5 dima  staff  160 10 Aug  2006 bedlam9
+-rw-r--r--   1 dima  staff    0 24 Jan 19:49 file-list.txt
+
+./bedlam:
+total 104
+-rw-r--r--  1 dima  staff    103  4 Mar  2006 Makefile
+-rwxr-xr-x  1 dima  staff  38438  5 Mar  2006 bedlam
+-rw-r--r--  1 dima  staff   4315  5 Mar  2006 bedlam.cpp
+
+./bedlam10:
+total 32
+-rw-r--r--  1 dima  staff    78 10 Aug  2006 Makefile
+-rw-r--r--  1 dima  staff  3019 10 Aug  2006 bedlam.cpp
+-rwxr-xr-x  1 dima  staff  4170 10 Aug  2006 bedlam.py
+
+./bedlam11:
+total 584
+-rw-r--r--  1 dima  staff     100 10 Aug  2006 Makefile
+-rwxr-xr-x  1 dima  staff  277170 10 Aug  2006 bedlam
+-rw-r--r--  1 dima  staff    5926 10 Aug  2006 bedlam.cpp
+-rwxr-xr-x  1 dima  staff    4212 10 Aug  2006 bedlam.py
+
+./bedlam11.5:
+total 576
+-rw-r--r--  1 dima  staff     100 10 Aug  2006 Makefile
+-rwxr-xr-x  1 dima  staff  277170 10 Aug  2006 bedlam
+-rw-r--r--  1 dima  staff    5926 10 Aug  2006 bedlam.cpp
+-rwxr-xr-x  1 dima  staff    3995  6 Oct  2006 bedlam.py
+
+./bedlam12:
+total 32
+-rwxr-xr-x  1 dima  staff  2400 30 Aug  2007 bedlam.py
+-rw-r--r--  1 dima  staff     0 30 Aug  2007 done-64.txt
+-rw-r--r--  1 dima  staff  3166  6 Aug  2007 exp.pyc
+-rw-r--r--  1 dima  staff  2098  6 Aug  2007 exps.py
+-rw-r--r--  1 dima  staff  3227  6 Aug  2007 exps.pyc
+
+./bedlam12.1:
+total 176
+-rw-r--r--  1 dima  staff   2866 30 Aug  2007 bedlam-simpler.py
+-rw-r--r--  1 dima  staff   3145  3 Sep  2007 bedlam-smarter.py
+-rwxr-xr-x  1 dima  staff   2866 30 Aug  2007 bedlam.py
+-rw-r--r--  1 dima  staff   3166 30 Aug  2007 exp.pyc
+-rw-r--r--  1 dima  staff   2098 30 Aug  2007 exps.py
+-rw-r--r--  1 dima  staff   3227 30 Aug  2007 exps.pyc
+-rw-r--r--  1 dima  staff  63143 30 Aug  2007 screenshot.png
+
+./bedlam2:
+total 104
+-rw-r--r--  1 dima  staff    111  5 Mar  2006 Makefile
+-rwxr-xr-x  1 dima  staff  40290  5 Mar  2006 bedlam
+-rw-r--r--  1 dima  staff   4428  5 Mar  2006 bedlam.cpp
+
+./bedlam3:
+total 64
+-rw-r--r--  1 dima  staff    105  5 Mar  2006 Makefile
+-rwxr-xr-x  1 dima  staff  16911  5 Mar  2006 bedlam
+-rw-r--r--  1 dima  staff   5558  5 Mar  2006 bedlam.cpp
+-rw-r--r--  1 dima  staff      0  5 Mar  2006 results.txt
+
+./bedlam4:
+total 200
+-rw-r--r--  1 dima  staff    119  5 Mar  2006 Makefile
+-rwxr-xr-x  1 dima  staff  40404  5 Mar  2006 bedlam
+-rw-r--r--  1 dima  staff   4590  5 Mar  2006 bedlam.cpp
+-rwxr-xr-x  1 dima  staff  26426  5 Mar  2006 decoder
+-rw-r--r--  1 dima  staff   1070  5 Mar  2006 decoder.cpp
+-rw-r--r--  1 dima  staff    534  5 Mar  2006 results.txt
+-rw-r--r--  1 dima  staff   4279  5 Mar  2006 results.txt.barf.barf
+-rw-r--r--  1 dima  staff    103  5 Mar  2006 stats.txt
+
+./bedlam5:
+total 296
+-rw-r--r--  1 dima  staff    130  7 Mar  2006 Makefile
+-rw-------  1 dima  staff   4096  7 Mar  2006 X
+-rwxr-xr-x  1 dima  staff  50637  7 Mar  2006 bedlam
+-rw-r--r--  1 dima  staff   7191  7 Mar  2006 bedlam.cpp
+-rwxr-xr-x  1 dima  staff  26426  7 Mar  2006 decoder
+-rw-r--r--  1 dima  staff   1070  7 Mar  2006 decoder.cpp
+-rw-r--r--  1 dima  staff    253  7 Mar  2006 readme.txt
+-rw-r--r--  1 dima  staff   4279  7 Mar  2006 results.txt.barf.barf
+-rwxr-xr-x  1 dima  staff  31237  7 Mar  2006 test-holes
+-rw-r--r--  1 dima  staff   1809  7 Mar  2006 test-holes.cpp
+
+./bedlam5.1:
+total 272
+-rw-r--r--  1 dima  staff    130 11 Mar  2006 Makefile
+-rw-------  1 dima  staff   4096 11 Mar  2006 X
+-rwxr-xr-x  1 dima  staff  53100 11 Mar  2006 bedlam
+-rw-r--r--  1 dima  staff   7916 11 Mar  2006 bedlam.cpp
+-rwxr-xr-x  1 dima  staff  26426 11 Mar  2006 decoder
+-rw-r--r--  1 dima  staff   1070 11 Mar  2006 decoder.cpp
+-rwxr-xr-x  1 dima  staff  31237 11 Mar  2006 test-holes
+-rw-r--r--  1 dima  staff   1809 11 Mar  2006 test-holes.cpp
+
+./bedlam6:
+total 7888
+-rw-r--r--  1 dima  staff      130 11 Mar  2006 Makefile
+-rwxr-xr-x  1 dima  staff    31067  7 Apr  2006 bedlam
+-rw-r--r--  1 dima  staff     6589 11 Mar  2006 bedlam.cpp
+-rwxr-xr-x  1 dima  staff     2020 28 Apr  2006 bedlam.py
+-rw-r--r--  1 dima  staff   426436 11 Mar  2006 crippled.resultst.txt
+-rwxr-xr-x  1 dima  staff    26426 11 Mar  2006 decoder
+-rw-r--r--  1 dima  staff     1070 11 Mar  2006 decoder.cpp
+-rw-r--r--  1 dima  staff  3489631 11 Mar  2006 resultst.txt
+-rwxr-xr-x  1 dima  staff    31237 11 Mar  2006 test-holes
+-rw-r--r--  1 dima  staff     1809 11 Mar  2006 test-holes.cpp
+
+./bedlam7:
+total 40
+-rwxr-xr-x  1 dima  staff  3702 30 Apr  2006 bedlam.py
+-rw-r--r--  1 dima  staff   111 30 Apr  2006 bugs.txt
+-rwxr-xr-x  1 dima  staff  4261 29 Apr  2006 dynamic-bedlam-with-cutoff.py
+-rwxr-xr-x  1 dima  staff  3951 29 Apr  2006 dynamic-bedlam.py
+
+./bedlam8:
+total 136
+-rw-r--r--  1 dima  staff     78  7 Aug  2006 Makefile
+-rwxr-xr-x  1 dima  staff  49319 10 Aug  2006 bedlam
+-rw-r--r--  1 dima  staff   6365 10 Aug  2006 bedlam.cpp
+-rwxr-xr-x  1 dima  staff   3182  2 Aug  2006 bedlam.py
+
+./bedlam9:
+total 40
+-rw-r--r--  1 dima  staff    78 10 Aug  2006 Makefile
+-rw-r--r--  1 dima  staff  6365 10 Aug  2006 bedlam.cpp
+-rwxr-xr-x  1 dima  staff  5000 10 Aug  2006 bedlam.py
