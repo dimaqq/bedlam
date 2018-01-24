@@ -1,0 +1,2 @@
+rotation seems flaky (-z,-y,-y; sensible would be -z, -y, -x) - testing
+one piece should be fixed - regression
